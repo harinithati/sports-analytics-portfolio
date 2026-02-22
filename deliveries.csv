@@ -1,0 +1,13 @@
+match_id,batting_team,batsman,bowler,batsman_runs,total_runs,dismissal_kind
+1,MI,RG Sharma,Chahar,45,45,
+1,CSK,MS Dhoni,Bumrah,30,30,
+2,CSK,Ruturaj Gaikwad,Bumrah,60,60,caught
+2,MI,V Kohli,Chahar,70,70,
+3,RCB,Faf du Plessis,Narine,55,55,
+3,KKR,Shubman Gill,Siraj,65,65,bowled
+4,KKR,Andre Russell,Harshal Patel,40,40,
+4,RCB,V Kohli,Varun Chakravarthy,80,80,caught
+5,GT,Shubman Gill,Bumrah,75,75,
+5,MI,RG Sharma,Rashid Khan,50,50,
+6,SRH,Heinrich Klaasen,Siraj,68,68,
+6,RCB,V Kohli,Bhuvneshwar Kumar,90,90,
